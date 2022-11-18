@@ -1,16 +1,20 @@
-# MINIMALIST RETAIL MANAGEMENT SYSTEM
+# SHOP MANAGEMENT SYSTEM
 
-This project was made for a mini project in school. Feel free to improve the code quality. Cheers!
+This project was made as a group project in school for our python course...
 
-## This repository consists of a GUI-based Retail Management System in Python(using tkinter). 
+## This is a GUI-based Shop Management System in Python(using tkinter). 
 
-### Pre-Requisites
-`Python 3.7`
 
-### Screenshots
-![alt text](https://github.com/realmacaw/real-mart/blob/master/images/main.png)
-![alt text](https://github.com/realmacaw/real-mart/blob/master/images/employee_login.png)
-![alt text](https://github.com/realmacaw/real-mart/blob/master/images/bill_window.png)
-![alt text](https://github.com/realmacaw/real-mart/blob/master/images/update_employee.png)
+
+# Group Members
+### Zormelo Alex - 0320080084
+### Ahmed Ashafa - 0320080067
+### Normanyo-Grives Etornam - 0320080157
+### Owusu Prince - 
+### Anku Christopher - 
+### Andy Aforkli - 
+### Fiattor David - 
+### Amogu Emmanuel Ugbaja - 0320080227
+
 
 
